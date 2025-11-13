@@ -1,0 +1,10 @@
+# Required libraries for the MuseDNA project
+librosa
+matplotlib
+seaborn
+numpy
+scipy
+pysindy
+galois
+questionary
+rich

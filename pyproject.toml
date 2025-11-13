@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "musedna"
+version = "1.0.0"
+authors = [
+  { name="AI Assistant", email="assistant@example.com" },
+]
+description = "A tool for musical genetics and analysis."
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.scripts]
+MuseDNA = "musedna.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
