@@ -1,6 +1,7 @@
 # MuseDNA: A Journey into Musical Genetics
 
-![MuseDNA Banner](https://i.imgur.com/your-banner-image.png) <!-- You can create and upload a banner image -->
+ 
+<img width="1024" height="1024" alt="muse_dna" src="https://github.com/user-attachments/assets/058c7409-3a30-4983-92d4-4aba26ca6abe" />
 
 MuseDNA is an interactive command-line application that explores the intersection of music, data science, and bioinformatics. It provides a suite of tools to analyze music, discover its underlying mathematical dynamics, and even use it as a medium for storing and retrieving genetic data with a powerful error-correction system.
 
